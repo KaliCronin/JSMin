@@ -1,5 +1,5 @@
 ################################################################################
-# php-version: function allowing one to switch between PHP versions
+##php-version: function allowing one to switch between PHP versions
 ################################################################################
 
 function php-version {
@@ -173,3 +173,4 @@ function php-version {
 
   hash -r
 }
+ 
